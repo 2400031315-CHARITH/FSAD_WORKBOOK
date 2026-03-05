@@ -7,7 +7,7 @@
 
     <bean id="Student" class="com.klu.student.Student">
 <constructor-arg value="111"/>
-<constructor-arg value="Lohith"/>
+<constructor-arg value="Charith"/>
 <property name="course" value="Frontend"/>
 <property name="year" value="2"/>
 </bean>
